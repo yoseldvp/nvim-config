@@ -1,3 +1,6 @@
-require("plugins.treesitter")
-require("plugins.telescope")
+require("plugins.float-term")
+require("plugins.lsp")
 require("plugins.nvim-tree")
+require("plugins.telescope")
+require("plugins.treesitter")
+require("plugins.undo-tree")

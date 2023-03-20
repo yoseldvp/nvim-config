@@ -8,5 +8,5 @@ require("remap")
 require("lazy-package-manager")
 require("plugins")
 
+vim.wo.number = true
 vim.cmd.colorscheme "catppuccin"
-
