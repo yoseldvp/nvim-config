@@ -1,4 +1,5 @@
 require("plugins.float-term")
+require("plugins.guess-indent")
 require("plugins.indent-blankline")
 require("plugins.lsp")
 require("plugins.mason")
