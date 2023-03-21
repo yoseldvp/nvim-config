@@ -27,5 +27,6 @@ return {
 			{'L3MON4D3/LuaSnip'},     -- Required
 		}
 	},
-	"voldikss/vim-floaterm"
+	"voldikss/vim-floaterm",
+  { "lukas-reineke/indent-blankline.nvim" }
 }
